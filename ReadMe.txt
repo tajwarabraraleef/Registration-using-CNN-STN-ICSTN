@@ -14,3 +14,6 @@ All the folders contains the weights of the trained networks, so they can be use
 
 Dataset and ground truth of a simple synthetic dataset of 10,000 images is available in the following link:
 https://drive.google.com/open?id=1HSIdUEwIBS7Ku8gnQIg4s4JKxN50X-K9
+
+More details about the project: https://tajwarabraraleef.github.io/publication/1/
+
