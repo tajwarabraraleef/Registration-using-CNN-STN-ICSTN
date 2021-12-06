@@ -21,7 +21,7 @@ For this work, synthesized data was used. Both the noisy and binary data are ava
 
 ### Training
 
-The code for each setting used in the report are provided. Based on which setting you want to run, follow the corresponding folder and find the `cnn_regressor.py`. Update the directory of the dataset and run to start training. 
+The code for each setting used in the report are provided. Based on which setting you want to run, follow the corresponding folder and find the `cnn_regressor.py` file. Update the directory of the dataset and run to start training. 
 
 * simple_cnn folder contains a simple implementation of using CNN to predict transformation parameters from simple 2D images
 
