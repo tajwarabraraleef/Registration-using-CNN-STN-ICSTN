@@ -2,7 +2,7 @@
 
 Implementation of STN (Spatial Transformer Network) and ICSTN (Inverse Compositional Spatial Transformer Networks) in Tensorlayer to predict transformation parameters from 2D images. This was implemented for estimating orientation of the cervical brachytherapy applicator from MRI scans. Check the report below for full details. 
 
-[<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-87202-1_56" target="_blank">Report</a>]
+[<a href="https://github.com/tajwarabraraleef/Registration-using-CNN-STN-ICSTN/blob/master/assets/report/Comprehensize%20study%20of%20CNN%20regressors.pdf" target="_blank">Report</a>]
 
 <p align="left">
 <a href="#"><img src="assets/figures/ic-stn.jpg" width="100%"></a>
